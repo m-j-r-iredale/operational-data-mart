@@ -101,7 +101,7 @@ operational-data-mart/
 │   ├── schema.sql
 │   └── seed_reference_data.sql
 ├── diagrams/
-│   └── .gitkeep
+│   └── data-mart-schema.png
 └── .gitignore
 ```
 
