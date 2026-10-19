@@ -33,7 +33,7 @@ Workflow-specific attributes are stored in one-to-one extension tables, allowing
 
 ## Data Model
 
-![Operational Data Mart Schema](diagrams/data_mart_schema.png)
+![Operational Data Mart Schema](diagrams/data-mart-schema.png)
 
 The core model includes:
 
